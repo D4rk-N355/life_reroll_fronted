@@ -1,0 +1,5 @@
+# ZIP bundles are delivered separately.
+*.zip
+node_modules/
+dist/
+*.tsbuildinfo
